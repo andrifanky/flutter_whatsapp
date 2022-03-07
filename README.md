@@ -6,6 +6,7 @@ A new Flutter project.
 
 <p float="left">
   <img src="/assets/images/ss_chats_1.png" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/assets/images/ss_chats_2.png" width="300"/>
 </p>
 <br/>

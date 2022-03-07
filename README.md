@@ -14,5 +14,6 @@ A new Flutter project.
 <br/>
 <p float="left">
   <img src="/assets/images/ss_calls.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/assets/images/ss_camera.png" width="250"/>
 </p>
